@@ -1,0 +1,14 @@
+# Publish only reviewed skill sources. Everything else is local material.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/photo-wallpaper/
+/photo-wallpaper/*
+!/photo-wallpaper/SKILL.md
+!/photo-wallpaper/references/
+/photo-wallpaper/references/*
+!/photo-wallpaper/references/xiaomi-watchfaces.md
+!/photo-wallpaper/scripts/
+/photo-wallpaper/scripts/*
+!/photo-wallpaper/scripts/render_wallpaper.py
